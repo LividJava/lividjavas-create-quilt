@@ -1,0 +1,13 @@
+name = "Ponder for KubeJS"
+filename = "ponderjs-1.19.2-1.1.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5A34Stj8/versions/x3ZJ7bKp/ponderjs-1.19.2-1.1.11.jar"
+hash-format = "sha1"
+hash = "00083610d342b471cd9a7968a12432fd889581bd"
+
+[update]
+[update.modrinth]
+mod-id = "5A34Stj8"
+version = "x3ZJ7bKp"
