@@ -3,11 +3,6 @@ filename = "better-end-2.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gc8OEnCC/versions/5CIFclEA/better-end-2.1.4.jar"
-hash-format = "sha1"
-hash = "563c36d6b3037b0ca86015052d0c359977ea736c"
-
-[update]
-[update.modrinth]
-mod-id = "gc8OEnCC"
-version = "5CIFclEA"
+url = "https://github.com/bl4d3tv/BetterEnd/releases/download/2.1.4/better-end-2.1.4.jar"
+hash-format = "sha256"
+hash = "22cbc0e95982445a260111d143afeef3a744f73e53eb26fdd9742338f4d9abe1"

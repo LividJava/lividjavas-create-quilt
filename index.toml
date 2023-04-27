@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "9035885fc165866b1634e10b5b9b65ff1335cd9b10d1592d67197c9d8594ebd3"
+hash = "f844bc4d528791d15d02e662ff4e233f2bff92d6213dc2d06d6fee4b6b671d63"
 metafile = true
 
 [[files]]
@@ -194,6 +194,11 @@ hash = "d95f2bc77c42d13c6be9a9cb834f7430a08ee880c546cc81bfdc6c041dec0ea9"
 metafile = true
 
 [[files]]
+file = "mods/displaycase.pw.toml"
+hash = "0d7deb92fbe0f97cfc03199d2085d9b8fbb68d482aacda8005971951d417e85b"
+metafile = true
+
+[[files]]
 file = "mods/effective.pw.toml"
 hash = "3853b370c0f12e4c99b15470e11c83119f96cde01d0ae26d19d93d2caf130065"
 metafile = true
@@ -321,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
 
 [[files]]
