@@ -212,11 +212,6 @@ hash = "0d7deb92fbe0f97cfc03199d2085d9b8fbb68d482aacda8005971951d417e85b"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml"
-hash = "55a8b11931f7d3c8e7cfc6cab29aee2b6ba49a36f999c1a2cc6cd1f2506ae213"
-metafile = true
-
-[[files]]
 file = "mods/enchlevel-langpatch.pw.toml"
 hash = "1d9002f63cf449e52ff701a52ec5b4d5386bfe2bf64ebfca7e07d444450989e6"
 metafile = true
@@ -394,11 +389,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "f7957b69872ee26bdaa1a9db1f880c4d65eefde73ec291f30c0765fe6198b808"
-metafile = true
-
-[[files]]
-file = "mods/satin-api.pw.toml"
-hash = "ef031b69a879ad13730aa1ddcb99a47cdb5a8083e228476574a7112f369932bf"
 metafile = true
 
 [[files]]
