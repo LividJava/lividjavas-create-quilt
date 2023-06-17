@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "8e178e8947eb3d36daa72e44b79361aee90bafe62408f10787f0f2fce5beaace"
+
+[[files]]
+file = "config/mainmenuchanger.json5"
+hash = "f67f230a11227931561d49fb4f3f98fd594d6f4574cef6d70a62df345c464c21"
+
+[[files]]
 file = "kubejs/data/minecraft/structures/end_city/ship.nbt"
 hash = "2c7b0957a634d711d59f8868d41f63ed5b02b057af7699b853df319357b2e273"
 
@@ -81,6 +89,11 @@ metafile = true
 [[files]]
 file = "mods/blahaj.pw.toml"
 hash = "e764ff745e74ab31545221f386e8f298dcd25314dd56976580923b91948999ca"
+metafile = true
+
+[[files]]
+file = "mods/blast-travel.pw.toml"
+hash = "a1cd9bc3565e9124e6293d6f4b08ce11ecfe23942c21bb696e769ffbb9708d3a"
 metafile = true
 
 [[files]]
@@ -274,6 +287,11 @@ hash = "8d1924c0a011522393b92357ba4241f5ccfa4ade693f5e78da16af753a56b8e0"
 metafile = true
 
 [[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
+metafile = true
+
+[[files]]
 file = "mods/mainmenuchanger.pw.toml"
 hash = "01d7bfbf6ea9aa63d6e753dc71aaf1a7189dc6d8eb483528910161f10fb607ea"
 metafile = true
@@ -286,6 +304,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
@@ -306,11 +329,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "d20a2e83f3e570badf2a8e57a2ba540f8acede421774181e903588ca0ba799e5"
 metafile = true
 
 [[files]]
@@ -361,6 +379,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
