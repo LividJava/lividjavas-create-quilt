@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8e178e8947eb3d36daa72e44b79361aee90bafe62408f10787f0f2fce5beaace"
+hash = "03ba83835085e4a9563c2cbce4bbf8009258fa6cfbaf7a0a80a7072288882467"
 
 [[files]]
 file = "config/mainmenuchanger.json5"
@@ -299,11 +299,6 @@ metafile = true
 [[files]]
 file = "mods/megaparrot.pw.toml"
 hash = "2c693592b663401b0351902846059f479f3a33c89b7faae2acc69e47364411c7"
-metafile = true
-
-[[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
 
 [[files]]
