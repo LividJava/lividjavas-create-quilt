@@ -2,11 +2,31 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "03ba83835085e4a9563c2cbce4bbf8009258fa6cfbaf7a0a80a7072288882467"
+hash = "47ef0a4a3d68b590240844af40d90d1eb195cf12d2caff227165f687bfd48ec3"
 
 [[files]]
 file = "config/mainmenuchanger.json5"
 hash = "f67f230a11227931561d49fb4f3f98fd594d6f4574cef6d70a62df345c464c21"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "ec2e2af072b2374141cb88298fdceecd2779f886c2bddc980135fd7dee2f9153"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "52a3b3ce770e550190d45aefa26fbade3e152a5f3c814489773e3e50fd8d091d"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
+hash = "99572827df66f8b3fd899a1cd1a1c77aace9ae61bfec7215f75e6f46e2d1ed75"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server-claim-config.toml"
+hash = "835af295f8062699cc668791e9fc5511a7e24e3aaab4108de24c7412fe1a6b2c"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server.toml"
+hash = "b9054f5b18c2f85684ae23605b6f345aeeec6adbaa0787c1c1d00b688c215115"
 
 [[files]]
 file = "kubejs/data/minecraft/structures/end_city/ship.nbt"
@@ -14,7 +34,7 @@ hash = "2c7b0957a634d711d59f8868d41f63ed5b02b057af7699b853df319357b2e273"
 
 [[files]]
 file = "kubejs/server_scripts/nonetherice.js"
-hash = "19334daab14170037c289038d580a0998c16b9134d35f5d78511dafb1667ef67"
+hash = "add6115fbbd09e85d88eff88f155fbd7d8616af1545d39c6a3f26cda1f0e63df"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -199,11 +219,6 @@ metafile = true
 [[files]]
 file = "mods/cyberanner-ironchest.pw.toml"
 hash = "ebaf036d0d7ed508d25f08749872d1cfb4009d46ab9f7fd8bfbf1674c884a91d"
-metafile = true
-
-[[files]]
-file = "mods/deeperdarker.pw.toml"
-hash = "f30fd50b9b1868a1e0aee52b1b56e8c95c254fd760622bfb0fc16a4dcd283f87"
 metafile = true
 
 [[files]]
