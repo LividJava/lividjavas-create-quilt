@@ -40,8 +40,3 @@ ItemEvents.rightClicked((event) => {
         );
     }
 });
-#
-#1) Party - players or entities owned by players in the same party as you.
-#2) Allies - players or entities owned by players in parties that are allied by yours.
-#3) Every - all players/entities.
-Books = 0

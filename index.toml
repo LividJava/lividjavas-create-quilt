@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "47ef0a4a3d68b590240844af40d90d1eb195cf12d2caff227165f687bfd48ec3"
+hash = "c5674b2eb4dd080a56bfd06b76184e45d5ae1ed5539f03c53c7c7752f1ee7a88"
 
 [[files]]
 file = "config/mainmenuchanger.json5"
@@ -34,7 +34,7 @@ hash = "2c7b0957a634d711d59f8868d41f63ed5b02b057af7699b853df319357b2e273"
 
 [[files]]
 file = "kubejs/server_scripts/nonetherice.js"
-hash = "add6115fbbd09e85d88eff88f155fbd7d8616af1545d39c6a3f26cda1f0e63df"
+hash = "d9ddc0566a6a51b416cc547cba5949b5b099d0665559a93ee2c83234f682bbf4"
 
 [[files]]
 file = "mods/adorn.pw.toml"
