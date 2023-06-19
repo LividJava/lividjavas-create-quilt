@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "5da5aaff213cffa34495a35d9dfa2f4faa38cbb7d29195b44f6d796b638feafc"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "47ef0a4a3d68b590240844af40d90d1eb195cf12d2caff227165f687bfd48ec3"
 
@@ -88,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "f844bc4d528791d15d02e662ff4e233f2bff92d6213dc2d06d6fee4b6b671d63"
+hash = "4723e2d187da836ab93f5e2ed6c5e9823c1db7984281813598a09d0ea85ffa4c"
 metafile = true
 
 [[files]]
