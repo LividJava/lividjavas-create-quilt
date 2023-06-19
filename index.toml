@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/blahaj.pw.toml"
-hash = "e764ff745e74ab31545221f386e8f298dcd25314dd56976580923b91948999ca"
+hash = "422269e01109affac0ca7810c92a6528a050ae95f90185c6ee0baa8f1dc7fad9"
 metafile = true
 
 [[files]]
@@ -488,12 +488,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "7a0617ab787d563878cb887499cadaa905f1ea8e577a16740f9a632a0f2e77c0"
+hash = "511fb7b3ea24222e7bd34e07cc7696cc206b96ffb32a484a6bdb5ac87c97c4ff"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "92fabf6009485130edf43bd6dbef2b5bb093d6b90c386f8a2fb3cac12b785d38"
+hash = "35334111a08c82e909d4cee54a974040b3fb526d30021a33fe2c70d1b5239025"
 metafile = true
 
 [[files]]

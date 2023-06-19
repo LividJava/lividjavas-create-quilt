@@ -1,12 +1,13 @@
 name = "LividJava's Create Refabricated"
 author = "LividJava"
-version = "0.0.2"
+# Don't forget to bump versions in mmc
+version = "0.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "429a4a1ec9307c918b0d31f2cb1d67f35425f0003f0fe489218939a55f75c944"
+hash = "e54170936624dfc8e083046fde715dc82643ba91036be5d8121bfefd7251ae9a"
 
 [versions]
 minecraft = "1.19.2"
