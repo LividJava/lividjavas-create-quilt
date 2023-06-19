@@ -182,6 +182,11 @@ hash = "04f4fdeea7d6d29539ae6581184fb469a525ef959c5cbff5b1ed6aad9040a644"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "f149d011c5cd4f30da32a4c06f4e24a7b2f532f6cbae5f11a77609032c7174ec"
+metafile = true
+
+[[files]]
 file = "mods/creates-delight.pw.toml"
 hash = "700cf372d83092405d83bea3b4951016ce6c47a28dd796c0824eceddf53b36cd"
 metafile = true
