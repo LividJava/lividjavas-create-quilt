@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "5da5aaff213cffa34495a35d9dfa2f4faa38cbb7d29195b44f6d796b638feafc"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "47ef0a4a3d68b590240844af40d90d1eb195cf12d2caff227165f687bfd48ec3"
 
@@ -473,6 +469,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "c71af8cb740fbf42b489ab24ee01ea0d09c3329cb9a62108b2b9dd85e721b3c8"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "c3b331b8f1cc6ed681c8dcb7b2fe7c34a91e47c7c62b88504de2aefa904e7723"
 metafile = true
 
 [[files]]
