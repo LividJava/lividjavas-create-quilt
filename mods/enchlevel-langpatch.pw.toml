@@ -1,6 +1,6 @@
 name = "Enchantment Level Language Patch"
 filename = "enchlevel-langpatch-2.1.2.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Lf4kDKU9/versions/odSesLJN/enchlevel-langpatch-2.1.2.jar"

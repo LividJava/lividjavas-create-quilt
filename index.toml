@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchlevel-langpatch.pw.toml"
-hash = "1d9002f63cf449e52ff701a52ec5b4d5386bfe2bf64ebfca7e07d444450989e6"
+hash = "4d2a9f1b45d1d261cd50e46e21f4e87fc38ac5f32a805378580637cef06a7a5c"
 metafile = true
 
 [[files]]
