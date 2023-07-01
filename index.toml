@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a1d611d2ea52a78d36768917e05b8f94cae7eccb076dc2eb00ae25666dde6848"
+hash = "107708ccb2a079b86a4855471e562ae3c4a74f619f885951a25a3a9b7bd18168"
 
 [[files]]
 file = "config/mainmenuchanger.json5"
@@ -29,8 +29,52 @@ file = "defaultconfigs/openpartiesandclaims-server.toml"
 hash = "b9054f5b18c2f85684ae23605b6f345aeeec6adbaa0787c1c1d00b688c215115"
 
 [[files]]
+file = "kubejs/data/create/recipes/cog.json"
+hash = "04792b0502cca414ec5e638388debb219737a3c76a214b785ff3abe4efd830c9"
+
+[[files]]
+file = "kubejs/data/curios/tags/items/back.json"
+hash = "14c26fde522feeb64f43bbf687877fab6c1a6ce86b686491836feeb205b2092e"
+
+[[files]]
+file = "kubejs/data/forge/tags/items/cogwheel.json"
+hash = "131de6a4ee9f963fd920c2b38669d3615808d480004fa48514d4f3a21d84512b"
+
+[[files]]
+file = "kubejs/data/forge/tags/items/ingots/steel.json"
+hash = "76c243482ac60b23c5b37dfcfd7de6505b3062954c3caa0ee5840f2d3218555e"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/chest.json"
+hash = "20f5f39f286a6e89aad92d92cf649b69090f62a20103d46e312b3866947024a8"
+
+[[files]]
 file = "kubejs/data/minecraft/structures/end_city/ship.nbt"
 hash = "2c7b0957a634d711d59f8868d41f63ed5b02b057af7699b853df319357b2e273"
+
+[[files]]
+file = "kubejs/data/raccmagic/recipes/cog_compat.json"
+hash = "f95b8d4b8c07acb83ed40c2a644573f087b111ed109cbf1637cefd54c335ebbb"
+
+[[files]]
+file = "kubejs/data/raccmagic/recipes/large_cog_compat.json"
+hash = "6e9bac9589edbfcdce0955f44f3c595f5eb04da6e21d207d114300a4b6a25cdc"
+
+[[files]]
+file = "kubejs/data/raccmagic/recipes/large_cog_compat_1.json"
+hash = "b3e9d5789b408aac1fd21261c41ca3eb8458c2fba5de112beb14af813ba8ce66"
+
+[[files]]
+file = "kubejs/data/raccmagic/recipes/obsidian.json"
+hash = "afc5cae24e64eaf018334f477625e3c18f80a667c6300487a540d58a10f8dfb8"
+
+[[files]]
+file = "kubejs/data/sliceanddice/recpies/slicer.json"
+hash = "622d178e30864a617ceaa8f1cb9b79127542f67125c401fa2118038c4457ee9d"
+
+[[files]]
+file = "kubejs/data/sliceanddice/tags/items/allowed_tools.json"
+hash = "25ca1a8adba57d5f37a603d9f442622bb50fc98f4db21a6e96b9ce9092d5044c"
 
 [[files]]
 file = "kubejs/server_scripts/nonetherice.js"
