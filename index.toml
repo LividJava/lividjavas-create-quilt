@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomesyougo.pw.toml"
-hash = "340b0722d813fba3a58ea3312c0c2fdeb077d31c98e9bba4bd79a5199d5e33d1"
+hash = "acd9476ac98a405edb48e5affa6805d9cfc70f02ed624a5146e14e86fcc98b23"
 metafile = true
 
 [[files]]
@@ -188,7 +188,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco-fabric.pw.toml"
-hash = "ae5f3899809a6dfc05d5b123872a49c1ebac752f2057045532307a3944a25f3a"
+hash = "a2da82dff5c76651934a5a7fa6ba45cf876cb2da3e07ff15566c60498265fd25"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "42769f9f49e92381784bfd76663091033e101909515dcf7459b1cdd48388bf1d"
 metafile = true
 
 [[files]]
@@ -203,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "a51f3f98721a8e637e71c78d5413271cb0d4816a5d55a8b9cd5c19353d49f8a2"
+hash = "e9ca0f5ceeb8c3dc5117d3bc0d5fd5756eb2763e8ae148e8053396726cc06259"
 metafile = true
 
 [[files]]
@@ -243,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "1d99e516e06ee6620a48a2b4bc45de8918deb27affc404786005a9a0a5ed6406"
+hash = "7282383f8bf77a7025f678353251856cc1d1999a72f7fe4ce5835a670dbbae76"
 metafile = true
 
 [[files]]
@@ -333,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "216a4488198a01ba61cd309403811d681c133b8993b10018cb18cd5534a2d480"
+hash = "91867da577600e80ab8f97e0c05087a31278be8645d250075f9b5e6bf90d099e"
 metafile = true
 
 [[files]]
@@ -348,12 +353,12 @@ metafile = true
 
 [[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
-hash = "766c74901386e7e1b8388b7792f3e43946151af25b90cea44815229b450b2746"
+hash = "5f9113ba8565bb1bbfc6534dbb3e0dcc767b721d534dd1a0f210f9ae16fb5d40"
 metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "9afe996ab07e8d2adadcb58a8ce39665277194c4c430607b04120612dd6f9925"
+hash = "eb80f62ab99bd4f104b09f5a4c85a521b93b188e01a5a9f41cf470b56c4a25e7"
 metafile = true
 
 [[files]]
@@ -378,12 +383,12 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "a441c287441f57daa6336ad4606c6530320dd0881deb60efa2447a517fb95cd3"
+hash = "5b10d97c237eb22fe591c9bd1fa8cd70265e7682b2c02c837a21a66496498f61"
 metafile = true
 
 [[files]]
 file = "mods/ponder.pw.toml"
-hash = "030f00eae31c8a731a7ab413d2a0b40df871902621bfd5ca0c74bb94c970796d"
+hash = "3c7989e736d914fb5574477b551941b03b71b69906fdb5604e93dbf11d3a5b7a"
 metafile = true
 
 [[files]]
@@ -423,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "10696b23b4f65ef1532b6bd26c87c510a6cefc8f2d1c81f4ac5e06f7e3b71492"
+hash = "bd63b35c99acba4d62190daf3b384950bb0002004d02709e4b62658dac8c8d08"
 metafile = true
 
 [[files]]
@@ -458,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "ff9734e83519d4b1a516101f16b30650d00877d55ac1b62c24466ee2cc2a825a"
+hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
 metafile = true
 
 [[files]]
@@ -478,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "c3b331b8f1cc6ed681c8dcb7b2fe7c34a91e47c7c62b88504de2aefa904e7723"
+hash = "55f4f50b3b6a887fb615b12b0e1efc339faa1a807966a9a6ac5bb0d4f2d864dc"
 metafile = true
 
 [[files]]
@@ -503,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "3e463b84b899f80b6744650c05d2d7560e0cf6865973e72c629d2fe1933595ad"
+hash = "2fc38ba76ead2e24de4c7cf5052c1081a3a8a912cdcd62bcbf4c9342e7b84ffc"
 metafile = true
 
 [[files]]
