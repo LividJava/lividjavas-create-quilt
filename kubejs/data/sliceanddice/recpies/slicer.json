@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "B",
+    "C"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:cogwheels"
+    },
+    "B": {
+      "item": "create:andesite_casing"
+    },
+    "C": {
+      "item": "create:turntable"
+    }
+  },
+  "result": {
+    "item": "sliceanddice:slicer"
+  }
