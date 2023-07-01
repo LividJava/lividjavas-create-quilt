@@ -91,6 +91,11 @@ hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "65b0ccc80e7bb51344fc138cfe952a6c9cfea23db0282a8852799be0cca29b85"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "242e18d68cb8d218df43e713e97239631f8612384789068659c4898cfa49fcef"
 metafile = true
@@ -213,11 +218,6 @@ metafile = true
 [[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "a206bc693d41eb72f431abfc5d4556f9e9bf7f0bb6237224b750df85aeddd434"
-metafile = true
-
-[[files]]
-file = "mods/controlling.pw.toml"
-hash = "2e30808f998481e8e17b995fcd74394e0a7aaace16be55a0292f3f80157df578"
 metafile = true
 
 [[files]]
