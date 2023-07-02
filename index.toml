@@ -121,6 +121,11 @@ hash = "4f64efbeb252e3b600aaf5d58e4a7db02790dd9d3609595f7ede779b988862ab"
 metafile = true
 
 [[files]]
+file = "mods/aurorasdecorations.pw.toml"
+hash = "fa1664a183058f98b38bf209eb2baf3ac5112ead1154ae0b0723b5443f2f03ef"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
 metafile = true
@@ -163,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/blast-travel.pw.toml"
 hash = "a1cd9bc3565e9124e6293d6f4b08ce11ecfe23942c21bb696e769ffbb9708d3a"
+metafile = true
+
+[[files]]
+file = "mods/block-of-sky.pw.toml"
+hash = "95f24104f9d560e428c3c2e9c5eddfafad3efe6f42926f3aca09af96070862b3"
 metafile = true
 
 [[files]]
@@ -281,6 +291,11 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
+file = "mods/forgero.pw.toml"
+hash = "5479fc19641d8aa3db1da58f6717b43a2b280362c77bdbd30ea7ef60ee6b2190"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
 metafile = true
@@ -358,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+metafile = true
+
+[[files]]
+file = "mods/numismatic-overhaul.pw.toml"
+hash = "1d93acb8fe0f4afc330701c2bb19e30ee91e54426b7c8ffca6e7c53bdecac9d0"
 metafile = true
 
 [[files]]
