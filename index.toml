@@ -171,11 +171,6 @@ hash = "a1cd9bc3565e9124e6293d6f4b08ce11ecfe23942c21bb696e769ffbb9708d3a"
 metafile = true
 
 [[files]]
-file = "mods/block-of-sky.pw.toml"
-hash = "95f24104f9d560e428c3c2e9c5eddfafad3efe6f42926f3aca09af96070862b3"
-metafile = true
-
-[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
@@ -483,11 +478,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
-metafile = true
-
-[[files]]
-file = "mods/spark.pw.toml"
-hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
 metafile = true
 
 [[files]]
