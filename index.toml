@@ -206,6 +206,11 @@ hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "62d2a0578959ce2ed450891edc4877bd15716bd2aa9ac7d01d5001c9343d0df1"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "5d1be27aedfe06c171c2d4c3750b034c98ccf80000aa9827fecb23adb33341b9"
 metafile = true
