@@ -1,0 +1,33 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        " PSP ",
+        "PYXYP",
+        "PCECP",
+        " C C "
+    ],
+    "key": {
+        "P": {
+            "tag": "forge:plates/brass"
+        },
+        "S": {
+            "item": "create:shaft"
+        },
+        "Y": {
+            "item": "create:precision_mechanism"
+        },
+        "C": {
+            "item": "create:chute"
+        },
+        "X": {
+            "item": "create:copper_backtank"
+        },
+        "E": {
+            "item": "minecraft:dragon_egg"
+        }
+    },
+    "result":
+        {
+            "item": "create_jetpack:jetpack"
+        }
+}
