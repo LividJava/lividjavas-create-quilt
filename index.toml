@@ -5,6 +5,22 @@ file = ".vscode/settings.json"
 hash = "fb2c84d85783a974567e1b75381b0b173d7e784986fb5f29a21929b36b2383bb"
 
 [[files]]
+file = "config/betterend/items.json"
+hash = "55557c230eb0c6475a583d06ad1c90ca6b279006f6d9f9fb4ced6db53c306e2d"
+
+[[files]]
+file = "config/betternether/items.json"
+hash = "1bd40ef69ca3df5b0e59a40dfe62fa0d4067ef9a54f0be44e439084565e295ed"
+
+[[files]]
+file = "config/betternether/mobs.json"
+hash = "9288bf0906ce35b4f7ae49bf6c55c24c7846c1ce2b1bb0099f84c56946a574a1"
+
+[[files]]
+file = "config/create_jetpack-common.toml"
+hash = "005aa3baec06395d26c6acae5b2c71ae62816c7f267c45e3f1b2fdcf9af4adc3"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "14358582e21321fd3a40aef677dffc023a0f20bea29111470610236cb4d492d0"
 
@@ -27,6 +43,10 @@ hash = "b9054f5b18c2f85684ae23605b6f345aeeec6adbaa0787c1c1d00b688c215115"
 [[files]]
 file = "kubejs/data/raccmagic/create/recipes/cog.json"
 hash = "04792b0502cca414ec5e638388debb219737a3c76a214b785ff3abe4efd830c9"
+
+[[files]]
+file = "kubejs/data/raccmagic/create_jetpack/recipes/jetpack.json"
+hash = "9ca1220d978301d3f845d4bb9911feacfd22167cfe61a56e0bab9c25031a81cd"
 
 [[files]]
 file = "kubejs/data/raccmagic/curios/tags/items/back.json"
@@ -55,6 +75,10 @@ hash = "b3e9d5789b408aac1fd21261c41ca3eb8458c2fba5de112beb14af813ba8ce66"
 [[files]]
 file = "kubejs/data/raccmagic/recipes/obsidian.json"
 hash = "afc5cae24e64eaf018334f477625e3c18f80a667c6300487a540d58a10f8dfb8"
+
+[[files]]
+file = "kubejs/server_scripts/nonetheop.js"
+hash = "711848f986d99953f680f2f5d71f761092b0b12090c963d9e91f33fc8277f010"
 
 [[files]]
 file = "kubejs/server_scripts/nonetherice.js"
@@ -87,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "9b9cba3fa724134f59e95816e95b980fe9bc6f30798351f9b0628d463fecda3b"
+hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
@@ -167,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "0ee21eaf6426bf7b4e4edcde234b4b7f894670593a352cf4c0ff5f5372e11429"
+hash = "f361b10a3272db57e401ae4ac4b8aa7695f27ffbf78b9560f552099bc5ce0901"
 metafile = true
 
 [[files]]
@@ -177,12 +201,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
-hash = "62d2a0578959ce2ed450891edc4877bd15716bd2aa9ac7d01d5001c9343d0df1"
+hash = "cb7e5deafb2733a625029bb557b9ae6a270ccf0ec3301125ead2afc537765561"
 metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "5d1be27aedfe06c171c2d4c3750b034c98ccf80000aa9827fecb23adb33341b9"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
 metafile = true
 
 [[files]]
@@ -193,11 +222,6 @@ metafile = true
 [[files]]
 file = "mods/ding.pw.toml"
 hash = "7c5259e9ac7df8366d01465703abcfbb38b59ab68c885cba988f259bea36afb2"
-metafile = true
-
-[[files]]
-file = "mods/every-compat.pw.toml"
-hash = "ad2c92615b6ffe12459f2fcc3f917f738298d88ca98df125fe58084fe139dcba"
 metafile = true
 
 [[files]]
@@ -223,11 +247,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "11312f710b3e2b35fbecc7b0a6406d630634680f13a0a3d640e19cbfbd4b865a"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
@@ -288,11 +307,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
-metafile = true
-
-[[files]]
-file = "mods/numismatic-overhaul.pw.toml"
-hash = "c856fe88e3cf7c1c8ffc85047717b9158e461036e422b5da5f8ec5aecb072671"
 metafile = true
 
 [[files]]
