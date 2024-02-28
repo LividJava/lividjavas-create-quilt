@@ -70,6 +70,3 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'betternether:flaming_ruby_boots'})
 
 })
-
-
-// TODO Add Disabled BetterX Items
