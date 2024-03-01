@@ -1,88 +1,30 @@
-<div align="center">
-  <img src="https://github.com/jh-devv/mc-modpack-kit/assets/122896463/003f8682-7e4f-4797-bdc8-2610a5d505de" alt="Logo">
-</div>
+# LividJava's Create Re-Stitched
+LividJava's Create Re-Stitched now featuring **The Quilt Mod Loader!** Using the same ideas as the Forge version.
 
-<p align="center">Streamline the Minecraft Modpack Release Process with GitHub Actions!</p>
+## Explore the world!
+Jam packed full of various biome and structure mods there will always be something to find just around the next bend! Featuring the BetterX suite and YUNG's mods you'll always find something interesting!
 
-<p align="center">
-  <a href="https://github.com/badges/shields/generate">
-    <img src="https://img.shields.io/badge/use%20this-template-blue?logo=github&style=for-the-badge" alt="Use this template">
-  </a>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge" alt="GitHub Actions Badge">
-  <img src="https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=fff&style=for-the-badge" alt="Minecraft Badge">
-</p>
+## Travel in **STYLE**
+With Create's Full Steam update adding in trains, *the very center of this pack*,  build your own Transit lines, Stations and Engines! Get around in **STYLE!**
 
----
+## Why this pack exists.
+When Mojang added Elytra, it really changed and arguably ruined the game for me. I noticed I explored less and was generally having less fun playing the game. So I wanted to create an experience that focused on Exploration and Getting around!
 
-**mc-modpack-kit** is a GitHub Actions workflow template designed to simplify the release process of Minecraft modpacks using a structured monorepo approach. It automates essential tasks such as versioning, modpack building, and publishing on platforms like Modrinth and CurseForge. 
+You won't find Elytra in this modpack they've been removed from structures. I've removed them to help focus on the idea of transit around the world through your own creativity! With no teleportation you'll have to get around the ol' fashioned way, on foot!
 
-It also includes an `nix flake` for you fellow nix enjoyers!
+Also, another major notable change is the removal of Ice Boats in the Nether. Because Create trains can enter the Nether I wanted to encourage you to focus on finding interesting ways of getting around!
 
-### Key Features
+### Who is this for?
+This pack is made for the player who wants to slow down and explore. Who felt that flying around the world, rushing for the End ruined the modpack experience. Take it slow, enjoy the world around you, focus on the little things!
 
-1. **Monorepo Structure**
+## Credit/Attribution
 
-   Embrace the power of organization with a monorepo-style architecture. Each subdirectory represents a different modpack version or loader type, streamlining your management of multiple modpack variations within a single repository.
+Xaero's [Minimap](https://modrinth.com/mod/xaeros-minimap) and [Worldmap](https://modrinth.com/mod/xaeros-world-map/)
 
-   Example subdirectories:
-   - `fabric/`: Fabric loader version.
-   - `forge/`: Forge loader version.
+Henkelmax's [Status](https://modrinth.com/mod/status), [Peek](https://modrinth.com/mod/peek), [Trade Cycling](https://modrinth.com/mod/trade-cycling), [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat), [Voice Chat Interaction](https://modrinth.com/mod/voice-chat-interaction) and [Audio Player](https://modrinth.com/mod/audioplayer)
 
-   You can create more just by initializing packwiz in the said directory of your choosing.
+Derin's [What the hell is that?](https://modrinth.com/mod/wthit)
 
-2. **Automated Releases**
+Terrarium Team's [Chipped](https://modrinth.com/mod/chipped)
 
-   Experience effortless version control with Release Please, which generates changelogs and handles version releases automatically, in sync with your pull requests. Maintain clarity with Conventional Commit Messages.
-
-   Examples:
-    - `feat(modpack/<mod>): <description>` for adding new features, configurations or content.
-    - `chore(modpack/<mod>): <description>` for routine maintenance tasks or cleanups.
-    - `update(modpack/<mod>): update <mod>` for updating mods to newer versions.
-    - `mod(modpack/<mod>): add <mod>` for introducing new mods to the modpack.
-       
-4. **Mod Updates**
-
-   Update your mods effortlessly by utilizing the `update.yml` workflow located in `.github/workflows/update.yml`. This action efficiently updates all mods across all subdirectories.
-
-### Getting Started
-
-1. **Fork the Repository**
-
-   Start by forking this repository to your GitHub account.
-
-2. **Set Up Secrets and Permissions**
-
-   - Navigate to "Settings" -> "Secrets" and add the following secrets:
-     - `MODRINTH_TOKEN`, `MODRINTH_ID` for Modrinth authentication.
-     - `CURSEFORGE_TOKEN`, `CURSEFORGE_ID` for CurseForge authentication.
-   - Enable "Allow GitHub Actions to create and approve pull requests" under "Settings" -> "Actions" -> "General" -> "Workflow permissions".
-
-3. **Initialize Your Modpack**
-
-   - Generate a `pack.toml` file using `packwiz` (installation instructions [here](https://packwiz.infra.link/installation/)) within a modpack folder.
-   - Begin by running `packwiz init`, preferably within the `main` directory.
-  
-4. **Set a release channel**
-   - By default this template uses the `beta (0.1.0)` channel, you can switch it to `release (1.0.0)` when you are ready!
-   - This can be done via executing `.github/workflows/bump-version-release.yml`!
-
-5. **You are good to go!**
-   - You can now merge the release PR that release please has made, sit back and enjoy a cup of coffee! ☕ ^-^
-
-### Troubleshooting and Support
-
-If you encounter any issues or need assistance, consult the [Issues](https://github.com/jh-devv/mc-modpack-kit/issues) page or reach out via my GitHub profile.
-
-### License
-
-This project is licensed under the [CC0 1.0 Universal License](LICENSE).
-
-### Acknowledgments
-
-- This project makes effective use of GitHub Actions and various tools to automate the modpack release process.
-- A heartfelt ❤️ thank you to [Rafii](https://github.com/Rafii2198) for helping with this!
-- Special thanks to the GitHub community for their contributions and support.
-
----
-
-Contributions, feedback, and improvements are warmly welcomed! Let's propel this project forward together! 🚀
+Vaskii & WillieWillus's [Patchouli](https://modrinth.com/mod/patchouli)
