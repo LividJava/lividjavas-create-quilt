@@ -4,12 +4,12 @@
         {
             "fluid": "minecraft:water",
             "nbt":{},
-            "amount": 1000
+            "amount": 81000
         },
         {
             "fluid": "minecraft:lava",
             "nbt": {},
-            "amount": 1000
+            "amount": 81000
         }
     ],
     "results": [
