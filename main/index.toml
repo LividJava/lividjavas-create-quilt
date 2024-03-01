@@ -26,7 +26,7 @@ hash = "005aa3baec06395d26c6acae5b2c71ae62816c7f267c45e3f1b2fdcf9af4adc3"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "14358582e21321fd3a40aef677dffc023a0f20bea29111470610236cb4d492d0"
+hash = "ae5e514449c36c4fd44c8646d2bc38d13dc9f5917de43264d91c389c1d97f50b"
 
 [[files]]
 file = "config/mainmenuchanger.json5"
@@ -35,6 +35,10 @@ hash = "f67f230a11227931561d49fb4f3f98fd594d6f4574cef6d70a62df345c464c21"
 [[files]]
 file = "config/travelersbackpack.json5"
 hash = "0113cee2803ae208e1c6bacb0aaa4f0242e9787b864401b8074b4c75cee4edd9"
+
+[[files]]
+file = "config/waila.json"
+hash = "432507796df6a3d07270e0dd7b307840c104b4a3ca448d0c8345e5f987860515"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
