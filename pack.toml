@@ -1,6 +1,6 @@
 name = "LividJava's Create Re-Stitched"
 author = "LividJava"
-version = "1.0.0-dev"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
