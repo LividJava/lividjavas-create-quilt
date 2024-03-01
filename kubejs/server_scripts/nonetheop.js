@@ -1,5 +1,6 @@
 // priority: 0
-console.info('Good luck... this disables so many things')
+console.info('I BANISH THEE')
+
 ServerEvents.recipes(event => {
     // remove BetterX Items at runtime
 

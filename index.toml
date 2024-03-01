@@ -9,6 +9,10 @@ file = "config/betterend/items.json"
 hash = "55557c230eb0c6475a583d06ad1c90ca6b279006f6d9f9fb4ced6db53c306e2d"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "ce5de675fcdb696d7a709eaa25560b295f969eec62268b552afaa838a4aba9d4"
+
+[[files]]
 file = "config/betternether/items.json"
 hash = "1bd40ef69ca3df5b0e59a40dfe62fa0d4067ef9a54f0be44e439084565e295ed"
 
@@ -29,6 +33,10 @@ file = "config/mainmenuchanger.json5"
 hash = "f67f230a11227931561d49fb4f3f98fd594d6f4574cef6d70a62df345c464c21"
 
 [[files]]
+file = "config/travelersbackpack.json5"
+hash = "0113cee2803ae208e1c6bacb0aaa4f0242e9787b864401b8074b4c75cee4edd9"
+
+[[files]]
 file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
 hash = "99572827df66f8b3fd899a1cd1a1c77aace9ae61bfec7215f75e6f46e2d1ed75"
 
@@ -41,24 +49,32 @@ file = "defaultconfigs/openpartiesandclaims-server.toml"
 hash = "b9054f5b18c2f85684ae23605b6f345aeeec6adbaa0787c1c1d00b688c215115"
 
 [[files]]
+file = "kubejs/client_scripts/raccvis.js"
+hash = "05c9d7b521b92c8ade516d4b102dddc83be2925b6b120fbcf4b4434f91ddb81b"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/chest.json"
+hash = "20f5f39f286a6e89aad92d92cf649b69090f62a20103d46e312b3866947024a8"
+
+[[files]]
+file = "kubejs/data/minecraft/structures/end_city/ship.nbt"
+hash = "2c7b0957a634d711d59f8868d41f63ed5b02b057af7699b853df319357b2e273"
+
+[[files]]
 file = "kubejs/data/raccmagic/create/recipes/cog.json"
 hash = "04792b0502cca414ec5e638388debb219737a3c76a214b785ff3abe4efd830c9"
 
 [[files]]
 file = "kubejs/data/raccmagic/create_jetpack/recipes/jetpack.json"
-hash = "9ca1220d978301d3f845d4bb9911feacfd22167cfe61a56e0bab9c25031a81cd"
+hash = "9da0cf2a821d5040e0fbc73d060077e9b48dd531daaa34003d98a208b9ed7487"
+
+[[files]]
+file = "kubejs/data/raccmagic/create_jetpack/recipes/netherite_jetpack.json"
+hash = "566a24e8cdfd7b43242a773419fe898279f46235f811fa1a36ba75b86f5b7c6a"
 
 [[files]]
 file = "kubejs/data/raccmagic/curios/tags/items/back.json"
-hash = "14c26fde522feeb64f43bbf687877fab6c1a6ce86b686491836feeb205b2092e"
-
-[[files]]
-file = "kubejs/data/raccmagic/minecraft/recipes/chest.json"
-hash = "20f5f39f286a6e89aad92d92cf649b69090f62a20103d46e312b3866947024a8"
-
-[[files]]
-file = "kubejs/data/raccmagic/minecraft/structures/end_city/ship.nbt"
-hash = "2c7b0957a634d711d59f8868d41f63ed5b02b057af7699b853df319357b2e273"
+hash = "d2bce860a02c1a0875fba276ba628c6d7c100894da6a45f877cdb7a843bc6d13"
 
 [[files]]
 file = "kubejs/data/raccmagic/pack.mcmeta"
@@ -77,8 +93,16 @@ file = "kubejs/data/raccmagic/recipes/obsidian.json"
 hash = "afc5cae24e64eaf018334f477625e3c18f80a667c6300487a540d58a10f8dfb8"
 
 [[files]]
+file = "kubejs/data/raccmagic/trinkets/entities/flightlib.json"
+hash = "73a1925aeae358aa5f1aa43e4eff936151dd1282c82c06f1c9bcb6ec275dd711"
+
+[[files]]
+file = "kubejs/data/raccmagic/trinkets/tags/items/chest/back.json"
+hash = "2461e3694c79955dedb4196c46407b8400d2bb6f78005557c9b4d033758e8e69"
+
+[[files]]
 file = "kubejs/server_scripts/nonetheop.js"
-hash = "711848f986d99953f680f2f5d71f761092b0b12090c963d9e91f33fc8277f010"
+hash = "e2272f1667ed3def12d28aacdd3a4bd8f968f69557176646e616b0735bc023d6"
 
 [[files]]
 file = "kubejs/server_scripts/nonetherice.js"
@@ -195,8 +219,8 @@ hash = "f361b10a3272db57e401ae4ac4b8aa7695f27ffbf78b9560f552099bc5ce0901"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+file = "mods/create-fabric-sodium-fix.pw.toml"
+hash = "0dc9fad2f8048eab5f3ba5d1ee71884046fea3de7e8432df5d1ab66b6e084c85"
 metafile = true
 
 [[files]]
@@ -247,6 +271,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "11312f710b3e2b35fbecc7b0a6406d630634680f13a0a3d640e19cbfbd4b865a"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
@@ -370,8 +399,13 @@ hash = "c43e60b6454158457ae778da78627e3cdcd452c3411702337c10c72b95064df1"
 metafile = true
 
 [[files]]
-file = "mods/status.pw.toml"
-hash = "676dc58b87009af6d7aab3590455bdb85e2b6a4a98fd644f864aecdc1dffade1"
+file = "mods/sodium.pw.toml"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
