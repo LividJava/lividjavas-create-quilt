@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/corgilib.pw.toml"
-hash = "c19456a7d54322948f6a9936342bb436d8380ee9f2542a0ce9d76fa501add711"
+hash = "a9b13ffaae60683d3e132ed218ad933101413fb292415392e7b8292d38d0ba6a"
 metafile = true
 
 [[files]]
@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "c43e60b6454158457ae778da78627e3cdcd452c3411702337c10c72b95064df1"
+hash = "3421108250ab80cb161343b8c99737797dcc54b81902747fdfceeb33918a67a6"
 metafile = true
 
 [[files]]
@@ -539,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "2485e05d5af6d8a4143ecea14f6a7f0af39c8b46d2f6f333da86a65d9e79cf36"
+hash = "0a1dd617ce02cbb8a078bbc7b0829bcb59c05b648316e6935353f34ea42f4254"
 metafile = true
 
 [[files]]
@@ -564,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "9aaa47ddb019a988c0f9b43560a488d29bda0af70f310762aac36c24959e1bab"
+hash = "95d6181cf78eb40066382ec4cdc27b101bda35e4a84523d7c46b4d936727af98"
 metafile = true
 
 [[files]]
