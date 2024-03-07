@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".vscode/settings.json"
-hash = "fb2c84d85783a974567e1b75381b0b173d7e784986fb5f29a21929b36b2383bb"
-
-[[files]]
 file = "config/betterend/items.json"
 hash = "55557c230eb0c6475a583d06ad1c90ca6b279006f6d9f9fb4ced6db53c306e2d"
 
@@ -22,15 +18,19 @@ hash = "9288bf0906ce35b4f7ae49bf6c55c24c7846c1ce2b1bb0099f84c56946a574a1"
 
 [[files]]
 file = "config/create_jetpack-common.toml"
-hash = "005aa3baec06395d26c6acae5b2c71ae62816c7f267c45e3f1b2fdcf9af4adc3"
+hash = "48382798550ca206c72b60d4aa028643a6e7b6bd4a347000b6b25589e656d26a"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ae5e514449c36c4fd44c8646d2bc38d13dc9f5917de43264d91c389c1d97f50b"
+hash = "73f66d26ad6562ce0d6b6f381e229398b630655e8416973f7029a7359b73e71d"
 
 [[files]]
 file = "config/mainmenuchanger.json5"
 hash = "f67f230a11227931561d49fb4f3f98fd594d6f4574cef6d70a62df345c464c21"
+
+[[files]]
+file = "config/supplementaries-common.json"
+hash = "6955aae997b655041aaaf7c22aa013aa837ea38925be28a6fbf29e783a2e1f1c"
 
 [[files]]
 file = "config/travelersbackpack.json5"
@@ -57,6 +57,18 @@ file = "kubejs/client_scripts/raccvis.js"
 hash = "05c9d7b521b92c8ade516d4b102dddc83be2925b6b120fbcf4b4434f91ddb81b"
 
 [[files]]
+file = "kubejs/data/create_jetpack/recipes/jetpack.json"
+hash = "050eb471957a25d7528b015bfb9ed4edd5f6c7fbe027f14806eb6299fff91f90"
+
+[[files]]
+file = "kubejs/data/create_jetpack/recipes/netherite_jetpack.json"
+hash = "1a430eedfde6bb9797135524d57b772acd092e8a85ba32954cdfe2aaaa7d4183"
+
+[[files]]
+file = "kubejs/data/distractingtrims/tags/items/distracts_piglins.json"
+hash = "af1d727267e20ff3a5f20987f52a96239f6161527c6508554a6914a7f3abb7d7"
+
+[[files]]
 file = "kubejs/data/minecraft/recipes/chest.json"
 hash = "20f5f39f286a6e89aad92d92cf649b69090f62a20103d46e312b3866947024a8"
 
@@ -67,14 +79,6 @@ hash = "2c7b0957a634d711d59f8868d41f63ed5b02b057af7699b853df319357b2e273"
 [[files]]
 file = "kubejs/data/raccmagic/create/recipes/cog.json"
 hash = "04792b0502cca414ec5e638388debb219737a3c76a214b785ff3abe4efd830c9"
-
-[[files]]
-file = "kubejs/data/raccmagic/create_jetpack/recipes/jetpack.json"
-hash = "9da0cf2a821d5040e0fbc73d060077e9b48dd531daaa34003d98a208b9ed7487"
-
-[[files]]
-file = "kubejs/data/raccmagic/create_jetpack/recipes/netherite_jetpack.json"
-hash = "566a24e8cdfd7b43242a773419fe898279f46235f811fa1a36ba75b86f5b7c6a"
 
 [[files]]
 file = "kubejs/data/raccmagic/curios/tags/items/back.json"
@@ -94,15 +98,19 @@ hash = "b3e9d5789b408aac1fd21261c41ca3eb8458c2fba5de112beb14af813ba8ce66"
 
 [[files]]
 file = "kubejs/data/raccmagic/recipes/obsidian.json"
-hash = "afc5cae24e64eaf018334f477625e3c18f80a667c6300487a540d58a10f8dfb8"
+hash = "099f023e111561ba277d1c3295d3ca22427a2c3524fc106baa9b83a4a59f1865"
 
 [[files]]
-file = "kubejs/data/raccmagic/trinkets/entities/flightlib.json"
+file = "kubejs/data/travelersbackpack/tags/items/acceptable_tools.json"
+hash = "354d66816ec51e6352d0092cde0c42ef19988d6d2203e96d7822b9bfb75d5c74"
+
+[[files]]
+file = "kubejs/data/trinkets/entities/flightlib.json"
 hash = "73a1925aeae358aa5f1aa43e4eff936151dd1282c82c06f1c9bcb6ec275dd711"
 
 [[files]]
-file = "kubejs/data/raccmagic/trinkets/tags/items/chest/back.json"
-hash = "2461e3694c79955dedb4196c46407b8400d2bb6f78005557c9b4d033758e8e69"
+file = "kubejs/data/trinkets/tags/items/chest/back.json"
+hash = "1944b30e59e828329c0552c6813f49a4038f31d51251d82a87ffcd6ec743b3a3"
 
 [[files]]
 file = "kubejs/server_scripts/nonetheop.js"
@@ -115,6 +123,11 @@ hash = "d9ddc0566a6a51b416cc547cba5949b5b099d0665559a93ee2c83234f682bbf4"
 [[files]]
 file = "mods/adorn.pw.toml"
 hash = "b7750fd27c8cb35d0cdbb0347e40cdbbbfdb4a08f24855c6803e7a69e1f06665"
+metafile = true
+
+[[files]]
+file = "mods/advancement-frames.pw.toml"
+hash = "e3332ccf2f3e668edb67334dc81bcec3ca1911e99230700b2e735c83000dc00f"
 metafile = true
 
 [[files]]
@@ -158,6 +171,11 @@ hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
 metafile = true
@@ -183,6 +201,11 @@ hash = "9c3fa6643bf554a030040c80f6397d1cb3b40b460b3dcb72277d83e3a6ee72a2"
 metafile = true
 
 [[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "ea754cf20adb758fd52e23a53d6ada63a0f54351e8794f61ea935856982eccb9"
+metafile = true
+
+[[files]]
 file = "mods/charmonium.pw.toml"
 hash = "f2e1d6a93b68fbec1adbbb8fa107682a7fced5115b02a33f1e7eb70c50018c84"
 metafile = true
@@ -203,6 +226,16 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "8875c35e0d48e5a048b7e789c013318a593724b4dad1eb8197e0c1c394f57265"
+metafile = true
+
+[[files]]
+file = "mods/colorful-subtitles.pw.toml"
+hash = "4c165823fc3f6205db7a22660e43a6660418617cdfe8ffc7c0d98017408f0483"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "8c2b45d5f5a416ab6b676393814fd151935d79979254a5aa5851a29c150bb842"
 metafile = true
@@ -213,8 +246,18 @@ hash = "2b880a4be1a624e956fafaea89834828c58b0c512e611e6746c3fb8d9e93b260"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "481851c8a38da11fd49324e104840de9f4e0e487e230ef4062d176ab23840d25"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
-hash = "c19456a7d54322948f6a9936342bb436d8380ee9f2542a0ce9d76fa501add711"
+hash = "a9b13ffaae60683d3e132ed218ad933101413fb292415392e7b8292d38d0ba6a"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "95a0eea23fda83e653a91b2d90b4e71fd63f516739da28f27253cc66a7da1548"
 metafile = true
 
 [[files]]
@@ -233,6 +276,11 @@ hash = "cb7e5deafb2733a625029bb557b9ae6a270ccf0ec3301125ead2afc537765561"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader-fabric.pw.toml"
+hash = "e1c67086eaf7e3df3066e81182a30b28d0b755c312cd6fa63aa4f12ecfc781cc"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "5d1be27aedfe06c171c2d4c3750b034c98ccf80000aa9827fecb23adb33341b9"
 metafile = true
@@ -243,6 +291,16 @@ hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
 metafile = true
 
 [[files]]
+file = "mods/create-trimmed.pw.toml"
+hash = "650bb01ab2e62006652c079d212023a26db63baf6667537c139bec0f17ac44a6"
+metafile = true
+
+[[files]]
+file = "mods/create-utilities.pw.toml"
+hash = "314e96812f627138ef906a469059897ecbb0eae936da8b38640805727b20a097"
+metafile = true
+
+[[files]]
 file = "mods/cyberanner-ironchest.pw.toml"
 hash = "f3586fdb624c6f02d881e9921073d9f217e09bb815ccafab83a55b0cc61fd283"
 metafile = true
@@ -250,6 +308,21 @@ metafile = true
 [[files]]
 file = "mods/ding.pw.toml"
 hash = "7c5259e9ac7df8366d01465703abcfbb38b59ab68c885cba988f259bea36afb2"
+metafile = true
+
+[[files]]
+file = "mods/distracting-trims.pw.toml"
+hash = "052e62ce46980256999880cc387cdb9d9554d86a898788f410636d31b46d2d1f"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "f0f49ff245a4551a6e87187731a3d4d2217aab641e290217a24ef115df31825e"
+metafile = true
+
+[[files]]
+file = "mods/effective.pw.toml"
+hash = "0defe5f1c4912392940ed43a0acbd7a8df22442768dc8eec63c0790d85d22529"
 metafile = true
 
 [[files]]
@@ -303,6 +376,11 @@ hash = "dcb391bce6e019d73e592771fecca3bef3bbca73785280efb08dcc2657a82fbd"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "996bf4e23ceb3ebe203859eda250fddf210babc15b5683fe585159a9398e4d70"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
@@ -329,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "fb7ce772b49cf568d1563c12af933bbb2823e8863bd7e4dff49063fbc23c1806"
+hash = "3214d2ab88163068603c56609c2b7ac9f8d87b719f6da8c96ff906164dac8353"
 metafile = true
 
 [[files]]
@@ -360,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/peek.pw.toml"
 hash = "71f63be5739cdbf9aebaa75fe93f7d98a3296c34f1a0f62f3be8c3dd963fd62a"
+metafile = true
+
+[[files]]
+file = "mods/pettable.pw.toml"
+hash = "842e3a047fa5cdc5992d68ff2d1cb378d07dad8fa90328b38cd22802ec120467"
 metafile = true
 
 [[files]]
@@ -399,7 +482,12 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "c43e60b6454158457ae778da78627e3cdcd452c3411702337c10c72b95064df1"
+hash = "3421108250ab80cb161343b8c99737797dcc54b81902747fdfceeb33918a67a6"
+metafile = true
+
+[[files]]
+file = "mods/simple-veinminer.pw.toml"
+hash = "658abc0275a7e19289aa946b18d6c1318291f5897ccb68a2072dc56c77932b49"
 metafile = true
 
 [[files]]
@@ -410,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "042778d980d8d00f729a99bfa24689aafa848a9596d23447e059dee1929c03cf"
 metafile = true
 
 [[files]]
@@ -459,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "2485e05d5af6d8a4143ecea14f6a7f0af39c8b46d2f6f333da86a65d9e79cf36"
+hash = "0a1dd617ce02cbb8a078bbc7b0829bcb59c05b648316e6935353f34ea42f4254"
 metafile = true
 
 [[files]]
@@ -478,8 +571,13 @@ hash = "528685d69966f72bfc2eab53caf66f4fa95cdd7dd8f33445a3867af73824f705"
 metafile = true
 
 [[files]]
+file = "mods/yigd.pw.toml"
+hash = "2747bdcecb68ac10a8af7f86bc38f09c4ed6959b7396834c241ebdab7d046332"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "9aaa47ddb019a988c0f9b43560a488d29bda0af70f310762aac36c24959e1bab"
+hash = "95d6181cf78eb40066382ec4cdc27b101bda35e4a84523d7c46b4d936727af98"
 metafile = true
 
 [[files]]

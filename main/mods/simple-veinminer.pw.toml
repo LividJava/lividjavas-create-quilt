@@ -1,0 +1,13 @@
+name = "Simple Veinminer"
+filename = "SimpleVeinminer-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zqcxr7u0/versions/qJADByum/SimpleVeinminer-1.4.2.jar"
+hash-format = "sha1"
+hash = "92ed94d7e32bc6408c0360a23b46f24e93c66cfd"
+
+[update]
+[update.modrinth]
+mod-id = "zqcxr7u0"
+version = "qJADByum"

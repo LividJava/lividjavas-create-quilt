@@ -23,7 +23,7 @@
             "item": "create:copper_backtank"
         },
         "E": {
-            "item": "minecraft:dragon_egg"
+            "item": "createutilities:void_steel_ingot"
         }
     },
     "result":
