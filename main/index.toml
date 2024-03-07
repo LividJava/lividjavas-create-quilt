@@ -18,11 +18,11 @@ hash = "9288bf0906ce35b4f7ae49bf6c55c24c7846c1ce2b1bb0099f84c56946a574a1"
 
 [[files]]
 file = "config/create_jetpack-common.toml"
-hash = "005aa3baec06395d26c6acae5b2c71ae62816c7f267c45e3f1b2fdcf9af4adc3"
+hash = "48382798550ca206c72b60d4aa028643a6e7b6bd4a347000b6b25589e656d26a"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ae5e514449c36c4fd44c8646d2bc38d13dc9f5917de43264d91c389c1d97f50b"
+hash = "73f66d26ad6562ce0d6b6f381e229398b630655e8416973f7029a7359b73e71d"
 
 [[files]]
 file = "config/mainmenuchanger.json5"
@@ -57,6 +57,18 @@ file = "kubejs/client_scripts/raccvis.js"
 hash = "05c9d7b521b92c8ade516d4b102dddc83be2925b6b120fbcf4b4434f91ddb81b"
 
 [[files]]
+file = "kubejs/data/create_jetpack/recipes/jetpack.json"
+hash = "050eb471957a25d7528b015bfb9ed4edd5f6c7fbe027f14806eb6299fff91f90"
+
+[[files]]
+file = "kubejs/data/create_jetpack/recipes/netherite_jetpack.json"
+hash = "1a430eedfde6bb9797135524d57b772acd092e8a85ba32954cdfe2aaaa7d4183"
+
+[[files]]
+file = "kubejs/data/distractingtrims/tags/items/distracts_piglins.json"
+hash = "af1d727267e20ff3a5f20987f52a96239f6161527c6508554a6914a7f3abb7d7"
+
+[[files]]
 file = "kubejs/data/minecraft/recipes/chest.json"
 hash = "20f5f39f286a6e89aad92d92cf649b69090f62a20103d46e312b3866947024a8"
 
@@ -67,14 +79,6 @@ hash = "2c7b0957a634d711d59f8868d41f63ed5b02b057af7699b853df319357b2e273"
 [[files]]
 file = "kubejs/data/raccmagic/create/recipes/cog.json"
 hash = "04792b0502cca414ec5e638388debb219737a3c76a214b785ff3abe4efd830c9"
-
-[[files]]
-file = "kubejs/data/raccmagic/create_jetpack/recipes/jetpack.json"
-hash = "9da0cf2a821d5040e0fbc73d060077e9b48dd531daaa34003d98a208b9ed7487"
-
-[[files]]
-file = "kubejs/data/raccmagic/create_jetpack/recipes/netherite_jetpack.json"
-hash = "566a24e8cdfd7b43242a773419fe898279f46235f811fa1a36ba75b86f5b7c6a"
 
 [[files]]
 file = "kubejs/data/raccmagic/curios/tags/items/back.json"
@@ -97,11 +101,15 @@ file = "kubejs/data/raccmagic/recipes/obsidian.json"
 hash = "099f023e111561ba277d1c3295d3ca22427a2c3524fc106baa9b83a4a59f1865"
 
 [[files]]
-file = "kubejs/data/raccmagic/trinkets/entities/flightlib.json"
+file = "kubejs/data/travelersbackpack/tags/items/acceptable_tools.json"
+hash = "354d66816ec51e6352d0092cde0c42ef19988d6d2203e96d7822b9bfb75d5c74"
+
+[[files]]
+file = "kubejs/data/trinkets/entities/flightlib.json"
 hash = "73a1925aeae358aa5f1aa43e4eff936151dd1282c82c06f1c9bcb6ec275dd711"
 
 [[files]]
-file = "kubejs/data/raccmagic/trinkets/tags/items/chest/back.json"
+file = "kubejs/data/trinkets/tags/items/chest/back.json"
 hash = "1944b30e59e828329c0552c6813f49a4038f31d51251d82a87ffcd6ec743b3a3"
 
 [[files]]
@@ -280,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/create-structures.pw.toml"
 hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
+metafile = true
+
+[[files]]
+file = "mods/create-trimmed.pw.toml"
+hash = "650bb01ab2e62006652c079d212023a26db63baf6667537c139bec0f17ac44a6"
 metafile = true
 
 [[files]]

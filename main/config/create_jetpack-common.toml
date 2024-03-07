@@ -11,11 +11,11 @@
 	#Range: 0.01 ~ 100.0
 	vertical = 0.2
 	#Range: 0.01 ~ 100.0
-	acceleration = 0.09
+	acceleration = 0.03
 	#Range: -100.0 ~ 0.0
-	hover_descend = -0.03
+	hover_descend = -0.01
 	#Range: 0.0 ~ 100.0
-	swim_modifier = 1.8
+	swim_modifier = 1.2
 
 [enchantments]
 	list = []
