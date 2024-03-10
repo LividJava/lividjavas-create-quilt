@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/LividJava/lividjavas-create-quilt/compare/v1.1.0...v1.1.1) (2024-03-10)
+
+
+### Bug Fixes
+
+* **main:** Removed CorgiLib ([3349d30](https://github.com/LividJava/lividjavas-create-quilt/commit/3349d3032dc6f3e585859dbc140f00f266193796))
+
 ## [1.1.0](https://github.com/LividJava/lividjavas-create-quilt/compare/v1.0.0...v1.1.0) (2024-03-07)
 
 
