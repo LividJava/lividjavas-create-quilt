@@ -1,0 +1,13 @@
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+update.txt
+todo.md
+# Exclude .direnv
+.direnv
+
+# Eclude precommit hooks config
+.pre-commit-config.yaml
