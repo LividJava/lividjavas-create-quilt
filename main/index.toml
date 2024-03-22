@@ -156,6 +156,11 @@ hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "119c3154529d8f2b6745d30ad443ebb948149660121a62de1c632c162854f223"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "9f22660d287a6a3ded24f5df8f944972933f04651cb30c9acb2e62132f3ffcd2"
 metafile = true
