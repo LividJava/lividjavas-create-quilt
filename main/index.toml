@@ -30,7 +30,7 @@ hash = "d5b811b258cc76a24ef5888d34d4e927b21bc438ad332992dfc5523bbb975e2b"
 
 [[files]]
 file = "config/create_jetpack-common.toml"
-hash = "48382798550ca206c72b60d4aa028643a6e7b6bd4a347000b6b25589e656d26a"
+hash = "993216f3c486469b297071fb813bfbba17e39a354bbec7ba75d923d50660e188"
 
 [[files]]
 file = "config/ding.conf"
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "2d4cae884155dbfb86ddb88f5b59e232c0b31a87acbe4b20f9cdeb0c75c361f7"
+hash = "b91afc0cc0069f645835be6bf7a9da309e61f9bc207e486fe8cb5af7012632d9"
 metafile = true
 
 [[files]]
