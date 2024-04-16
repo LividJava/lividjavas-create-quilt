@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.3](https://github.com/LividJava/lividjavas-create-quilt/compare/v1.1.1...v1.1.3) (2024-04-16)
+
+
+### Bug Fixes
+
+* **main:** something in Create Jetpack changed, this should fix that ([25fb578](https://github.com/LividJava/lividjavas-create-quilt/commit/25fb57858e22842fde9cfdf67c3cae5148dd529c))
+
+
+### Miscellaneous Chores
+
+* **main:** release 1.1.2 ([76fb868](https://github.com/LividJava/lividjavas-create-quilt/commit/76fb868afeaa24f10c12b554163b472ad9208bde))
+* **main:** release 1.1.3 ([954811f](https://github.com/LividJava/lividjavas-create-quilt/commit/954811f63422ccdd892d3a1a483bc88ae97918d1))
+
 ## [1.1.1](https://github.com/LividJava/lividjavas-create-quilt/compare/v1.1.0...v1.1.1) (2024-03-10)
 
 
