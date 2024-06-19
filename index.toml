@@ -1,12 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".gitattributes.orig"
+hash = "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+
+[[files]]
+file = ".gitignore.orig"
+hash = "a0cf0a72156d0f38dd3c2e0d68fbfc75af7bd514c27b158d17dffd163cc861f4"
+
+[[files]]
 file = ".packwizignore.orig"
 hash = "4ae82e1d661196ece80cae74818f750f353e51b1d91d1abc53614d0c995b7da8"
 
 [[files]]
+file = ".vscode/settings.json"
+hash = "fb2c84d85783a974567e1b75381b0b173d7e784986fb5f29a21929b36b2383bb"
+
+[[files]]
 file = "CHANGELOG.md"
 hash = "f75713389a35c56e1c7dd96775fdb6fbdd73f797cf27e4c16e6fdc30bae8f500"
+
+[[files]]
+file = "LICENSE.orig"
+hash = "5da5aaff213cffa34495a35d9dfa2f4faa38cbb7d29195b44f6d796b638feafc"
+
+[[files]]
+file = "README.md.orig"
+hash = "08a8e06227a02c0a1a065d39b80a581281d96e3a8c80f29c35cf30d12bbe88f4"
 
 [[files]]
 file = "config/betterend/items.json"
