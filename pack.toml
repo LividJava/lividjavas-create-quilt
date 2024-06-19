@@ -1,0 +1,13 @@
+name = "LividJava's Create Re-Stitched"
+author = "LividJava"
+version = "1.1.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2bc454b397685657ddb0514eda56db7d62510fc614e8bdabdbe8f2c88ee293bc"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.25.0"
