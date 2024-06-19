@@ -1,0 +1,13 @@
+name = "Attribute Tooltip Fix"
+filename = "attributetooltipfix-fabric-1.20.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eRyV6EA3/versions/JF6u1nt2/attributetooltipfix-fabric-1.20.1-2.0.1.jar"
+hash-format = "sha1"
+hash = "f996c3318b284f174c059754399671571b1f84a4"
+
+[update]
+[update.modrinth]
+mod-id = "eRyV6EA3"
+version = "JF6u1nt2"
