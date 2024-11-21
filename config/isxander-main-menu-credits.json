@@ -1,37 +1,37 @@
 {
     "main_menu": {
-      "top_left": [
-      "Assembled with ♥ by LividJava!",
-      "LJC-Q 1.2.0"
-      ],
-      "top_right": [
-      
-      ],
-      "bottom_left": [
-      
-      ],
-      "bottom_right": [
-      
-      ],
-      "mod_blacklist": [
-  
-      ]
+        "top_left": [
+            "Assembled with ♥ by LividJava!",
+            "LJC-Q 1.2.1"
+        ],
+        "top_right": [
+
+        ],
+        "bottom_left": [
+
+        ],
+        "bottom_right": [
+
+        ],
+        "mod_blacklist": [
+
+        ]
     },
     "pause_menu": {
-      "top_left": [
-      "LJC-Q 1.2.0"
-      ],
-      "top_right": [
-      
-      ],
-      "bottom_left": [
-      
-      ],
-      "bottom_right": [
-      
-      ],
-      "mod_blacklist": [
-  
-      ]
+        "top_left": [
+            "LJC-Q 1.2.1"
+        ],
+        "top_right": [
+
+        ],
+        "bottom_left": [
+
+        ],
+        "bottom_right": [
+
+        ],
+        "mod_blacklist": [
+
+        ]
     }
-  }
+}
