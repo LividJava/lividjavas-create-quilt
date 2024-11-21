@@ -211,6 +211,11 @@ hash = "e9d16c028eb492b74f3bf129b4271fd12efb00b1b2a7462aebed2a592445ca01"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "f2cfdbf2a03f79ce67a782ffc53a21930ced14a69f802618d3c5af0760554868"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "e5a68e0e0d90aac1d965ab7cab5858c474e875be9012a7c8a3adf96420faa726"
 metafile = true
@@ -406,6 +411,11 @@ hash = "4375a78dc2331d06b922e9011969e259e23947bb57088871d30b26d3b2ed37b6"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
 metafile = true
@@ -526,6 +536,11 @@ hash = "c94b68658f3158a44d5e95a606aa08628cd2b80a50fe45d26d5679205a77e4d1"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
 hash = "3a918ed8f788c9fdc80655da76c9499aaf60a468f5960bbf6e744ddf10231754"
 metafile = true
@@ -553,6 +568,11 @@ metafile = true
 [[files]]
 file = "mods/simple-veinminer.pw.toml"
 hash = "658abc0275a7e19289aa946b18d6c1318291f5897ccb68a2072dc56c77932b49"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "407d9fabf2cb030da7d2fe0a862a3b88c013f8e60226bd5a97d70665f04c937e"
 metafile = true
 
 [[files]]
