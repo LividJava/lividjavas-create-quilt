@@ -1,32 +1,41 @@
-console.log("Removed the placement of boats and ice in the Nether.")
+console.log("OH NO, OUR NETHER ICE, ITS MELTED!")
 
-BlockEvents.placed("minecraft:ice", (event) => {
-    if (event.block.dimension == "minecraft:the_nether") {
-        event.cancel();
+// Old way, dumb
+//BlockEvents.placed("minecraft:ice", (event) => {
+//    if (event.block.dimension == "minecraft:the_nether") {
+//        event.player.tell(
+//            "Placing boats or §dice§r in the nether is disallowed."
+//        );
+//        event.cancel();
+//    }
+//});
+//
+//BlockEvents.placed("minecraft:packed_ice", (event) => {
+//     if (event.block.dimension == "minecraft:the_nether") {
+//         event.player.tell(
+//             "Placing boats or §dice§r in the nether is disallowed."
+//         );
+//         event.cancel();
+//     }
+// });
+//
+// BlockEvents.placed("minecraft:blue_ice", (event) => {
+//     if (event.block.dimension == "minecraft:the_nether") {
+//         event.player.tell(
+//             "Placing boats or §dice§r in the nether is disallowed."
+//         );
+//         event.cancel();
+//     }
+// });
+
+BlockEvents.placed(event => {
+    if (event.block.dimension == "minecraft:the_nether" && event.block.hasTag("minecraft:ice")) {
         event.player.tell(
-            Text.of("Placing boats or §dice§r in the nether is disallowed.")
+            "Placing boats or §dice§r in the nether is disallowed."
         );
+        event.cancel();
     }
 });
-
-BlockEvents.placed("minecraft:packed_ice", (event) => {
-    if (event.block.dimension == "minecraft:the_nether") {
-        event.cancel();
-        event.player.tell(
-            Text.of("Placing boats or §dice§r in the nether is disallowed.")
-        );
-    }
-});
-
-BlockEvents.placed("minecraft:blue_ice", (event) => {
-    if (event.block.dimension == "minecraft:the_nether") {
-        event.cancel();
-        event.player.tell(
-            Text.of("Placing boats or §dice§r in the nether is disallowed.")
-        );
-    }
-});
-
 
 ItemEvents.rightClicked((event) => {
     if (
@@ -34,9 +43,7 @@ ItemEvents.rightClicked((event) => {
             event.player.mainHandItem.hasTag("minecraft:boats")) ||
         event.player.offHandItem.hasTag("minecraft:boats")
     ) {
+        event.player.tell("Placing §dboats§r or ice in the nether is disallowed.");
         event.cancel();
-        event.player.tell(
-            Text.of("Placing §dboats§r or ice in the nether is disallowed.")
-        );
     }
 });
