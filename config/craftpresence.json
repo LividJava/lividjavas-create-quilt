@@ -1,7 +1,5 @@
 {
-  "_README": "https://gitlab.com/CDAGaming/CraftPresence/-/wikis/home",
-  "_SOURCE": "https://gitlab.com/CDAGaming/CraftPresence",
-  "_schemaVersion": 6,
+  "_schemaVersion": 7,
   "_lastMCVersionId": 763,
   "generalSettings": {
     "detectATLauncherInstance": false,
@@ -10,13 +8,12 @@
     "detectMCUpdaterInstance": false,
     "detectTechnicPack": false,
     "detectModrinthPack": false,
-    "detectBiomeData": true,
-    "detectDimensionData": true,
+    "detectBiomeData": false,
+    "detectDimensionData": false,
     "detectWorldData": true,
     "clientId": "1089807364762390618",
-    "defaultIcon": "pack",
+    "defaultIcon": "overworld",
     "enableJoinRequests": false,
-    "partyPrivacyLevel": 1,
     "preferredClientLevel": 3,
     "resetTimeOnInit": false,
     "autoRegister": false
@@ -43,40 +40,47 @@
     "fallbackServerMotd": "A Minecraft Server",
     "serverData": {
       "default": {
-        "textOverride": "Engineering with Other Raccoons on {server.motd.raw}"
+        "textOverride": "Engineering with {server.players.current} Other Raccoons"
       }
-    }
+    },
+    "pingRateInterval": 5,
+    "pingRateUnit": "minutes"
   },
   "statusMessages": {
     "mainMenuData": {
-      "textOverride": "Searching for Other Raccoons"
+      "textOverride": "Searching for Other Raccoons",
+      "iconOverride": "pack"
     },
     "loadingData": {
-      "textOverride": "Waiting for Raccoon Wizards to cast spells..."
+      "textOverride": "Waiting for Raccoon Wizards to cast spells...",
+      "iconOverride": "pack"
     },
     "lanData": {
-      "textOverride": "Engineering with Local Raccoons"
+      "textOverride": "Engineering with Local Raccoons",
+      "iconOverride": "{player.icon}"
     },
     "singleplayerData": {
       "textOverride": "Engineering Alone (Singleplayer)",
+      "iconOverride": "{player.icon}",
       "data": {
-        "enabled": true,
+        "enabled": false,
         "useAsMain": false,
+        "isInstance": false,
+        "activityType": 0,
+        "partyPrivacy": 1,
         "details": "",
         "gameState": "",
-        "largeImageKey": "{getFirst(player.icon, menu.icon)}",
+        "largeImageKey": "{player.icon}",
         "largeImageText": "",
         "smallImageKey": "",
         "smallImageText": "",
         "startTimestamp": "",
         "endTimestamp": "",
-        "buttons": {
-          "default": {
-            "label": "Example Text",
-            "url": "https://google.com"
-          }
-        }
+        "buttons": {}
       }
+    },
+    "realmData": {
+      "textOverride": "Playing on {server.motd.raw}"
     }
   },
   "advancedSettings": {
@@ -116,68 +120,26 @@
     "serverIconEndpoint": "https://api.mcsrvstat.us/icon/{server.address.short}",
     "playerSkinEndpoint": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}",
     "allowDuplicatePackets": false,
-    "maxConnectionAttempts": 10
+    "maxConnectionAttempts": 10,
+    "enableClassGraph": false
   },
   "accessibilitySettings": {
-    "tooltipBackground": {
-      "start": {
-        "red": 16,
-        "green": 0,
-        "blue": 16,
-        "alpha": 240
-      }
-    },
-    "tooltipBorder": {
-      "start": {
-        "red": 80,
-        "green": 0,
-        "blue": 255,
-        "alpha": 80
-      },
-      "end": {
-        "red": 40,
-        "green": 0,
-        "blue": 127,
-        "alpha": 80
-      }
-    },
-    "guiBackground": {
-      "start": {
-        "red": 64,
-        "green": 64,
-        "blue": 64,
-        "alpha": 255
-      },
-      "texLocation": "minecraft:textures/gui/options_background.png"
-    },
-    "altGuiBackground": {
-      "start": {
-        "red": 16,
-        "green": 16,
-        "blue": 16,
-        "alpha": 192
-      },
-      "end": {
-        "red": 16,
-        "green": 16,
-        "blue": 16,
-        "alpha": 208
-      }
-    },
     "languageId": "en_us",
     "stripTranslationColors": false,
     "stripTranslationFormatting": false,
     "stripExtraGuiElements": false,
-    "renderTooltips": true,
     "configKeyCode": -1
   },
   "displaySettings": {
     "presenceData": {
       "enabled": true,
       "useAsMain": false,
+      "isInstance": false,
+      "activityType": 0,
+      "partyPrivacy": 1,
       "details": "{getFirst(menu.message, dimension.message)}",
       "gameState": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
-      "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
+      "largeImageKey": "pack",
       "largeImageText": "{getFirst(menu.message, dimension.message)}",
       "smallImageKey": "{getFirst(server.icon, pack.icon)}",
       "smallImageText": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
@@ -187,21 +149,16 @@
         "button_1": {
           "label": "Get Pack",
           "url": "https://modrinth.com/modpack/ljc-q"
-        },
-        "default": {
-          "label": "Example Text",
-          "url": "https://google.com"
         }
       }
     },
     "dynamicIcons": {
-      "default": "https://via.placeholder.com/256.png",
+      "localhost": "https://api.mcsrvstat.us/icon/localhost",
       "LividJava": "https://mc-heads.net/avatar/44997facae134970a114a98ab438f382",
-      "mwamod.starbo.lt": "https://api.mcsrvstat.us/icon/mwamod.starbo.lt",
-      "localhost": "https://api.mcsrvstat.us/icon/localhost"
+      "mc.lividjava.xyz": "https://api.mcsrvstat.us/icon/mc.lividjava.xyz",
+      "mwamod.starbo.lt": "https://api.mcsrvstat.us/icon/mwamod.starbo.lt"
     },
     "dynamicVariables": {
-      "default": "Example Text",
       "mods": "{general.mods} Mod(s)",
       "player_info_coordinate": "At {player.position.x}, {player.position.z}",
       "players": "{server.players.current} / {server.players.max} Players",

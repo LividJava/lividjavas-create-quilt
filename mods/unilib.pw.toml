@@ -1,0 +1,13 @@
+name = "UniLib"
+filename = "UniLib-1.1.0+1.20.1-quilt.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nT86WUER/versions/P2jksRq8/UniLib-1.1.0%2B1.20.1-quilt.jar"
+hash-format = "sha1"
+hash = "556594ab8a21488f88f68b634e0c9a7e7d783ddd"
+
+[update]
+[update.modrinth]
+mod-id = "nT86WUER"
+version = "P2jksRq8"

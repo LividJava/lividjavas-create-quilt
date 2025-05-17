@@ -46,7 +46,7 @@ hash = "9288bf0906ce35b4f7ae49bf6c55c24c7846c1ce2b1bb0099f84c56946a574a1"
 
 [[files]]
 file = "config/craftpresence.json"
-hash = "d5b811b258cc76a24ef5888d34d4e927b21bc438ad332992dfc5523bbb975e2b"
+hash = "2511df8ea3708448de28cb8726cf0f5b6f95c3c3d6393e5e052bb86dacf88c1e"
 
 [[files]]
 file = "config/create_jetpack-common.toml"
@@ -106,7 +106,7 @@ hash = "1a430eedfde6bb9797135524d57b772acd092e8a85ba32954cdfe2aaaa7d4183"
 
 [[files]]
 file = "kubejs/data/distractingtrims/tags/items/distracts_piglins.json"
-hash = "bf6b1941d77e08a613b18614d098027b0a605e1aab7b0c0d932b92c1114aabdf"
+hash = "b3bde9a4ba3af0605f346034528dfd262e6e654e62f666c1ae31c54f2ec97905"
 
 [[files]]
 file = "kubejs/data/minecraft/recipes/chest.json"
@@ -158,7 +158,15 @@ hash = "e2272f1667ed3def12d28aacdd3a4bd8f968f69557176646e616b0735bc023d6"
 
 [[files]]
 file = "kubejs/server_scripts/nonetherice.js"
-hash = "971f69fe8fc33b1d693f17ea436a2a7af7bf7f9a44d67c669f31557b6b36010f"
+hash = "cc1283a69f860480cfbe81eac93357b3ab60204c6e0d060637b3b00af68309c3"
+
+[[files]]
+file = "kubejs/server_scripts/raccwrench.js"
+hash = "ff1eaf097d065422e39456e08c3d2ef6de37a714403ca6b7d1d88d115f2c52e8"
+
+[[files]]
+file = "kubejs/startup_scripts/raccwrench.js"
+hash = "82a4a55adb7c4ffdeee3c2fd76c498c6d77a6096c692e5104999e73857fca625"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -168,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/advancement-frames.pw.toml"
 hash = "204782a3b563594e17a64d8335264122fce3bbbad24eb940860483199105b975"
+metafile = true
+
+[[files]]
+file = "mods/almanac-for-spyglass-astronomy.pw.toml"
+hash = "24b53fe190eec652de27f729021f203c53f37f3be80a4a29e7613c763f274c98"
 metafile = true
 
 [[files]]
@@ -256,6 +269,16 @@ hash = "9c3fa6643bf554a030040c80f6397d1cb3b40b460b3dcb72277d83e3a6ee72a2"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "635275e7ff042568ac2279602371e0da61eae9b07d7486b5b357f5f43d83caa9"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
+metafile = true
+
+[[files]]
 file = "mods/cat_jam.pw.toml"
 hash = "d6b3305d7e547c7958104593f38436d44bc765d96e932fd761fd5d708a9ab22b"
 metafile = true
@@ -316,8 +339,23 @@ hash = "2ed1bf766612ceb0db818d696d3f2d6dd7a7a276d4f3000226d43602e0b38d75"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "494a9f54a3765db62fde1481a9c6f351a22a631f0a4c62b3d423da5c88678fb6"
+metafile = true
+
+[[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+hash = "df46e71f5a18f3dd0b3129570de544ebfd24c1d28bf47b7db56603efc02fe671"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "20b927814945569eaf2828479e02e4706d7012e742a010c75283f2b614b238b1"
 metafile = true
 
 [[files]]
@@ -331,13 +369,33 @@ hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
 metafile = true
 
 [[files]]
+file = "mods/create-food.pw.toml"
+hash = "559388555cb107605af56363f79552de3508b9cec6c33c82ee043ca908ce90a1"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "7272fe7ad3bb704c810c2e30366ce75f972cabcf4ef76d58188479a39f4a9462"
 metafile = true
 
 [[files]]
+file = "mods/create-let-the-adventure-begin.pw.toml"
+hash = "356e265befad072496b32ef78246cee14ad8516cbdcebd1c530081e1b9d2f8cc"
+metafile = true
+
+[[files]]
+file = "mods/create-molten-metals.pw.toml"
+hash = "a211e4e8e8955f09568c0c18c2966198b8ee5acd2e4fbe04e90668b282423ba7"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader-fabric.pw.toml"
 hash = "819147b9b5a29485a20add7bb2453d3d0100dfa2df7466d9474b92c8122120b9"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "907e7e5d6b05617a052c42ca1de0a96fcf10d873bb6d620ce5529b06a2597175"
 metafile = true
 
 [[files]]
@@ -581,6 +639,11 @@ hash = "e79600407f77b7d4a5993f33758b451ad035d470a36729d56d031a22072bf1ae"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "35242355a5725fc5ee4b6e6929f534fdbb32b05e9a7f149f670fcd97eb743079"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "d390c88ec2ad5cce30c4a3ad18aeb1199bd3559b3b70b5fdbd9da2c12e698116"
 metafile = true
@@ -588,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-astronomy.pw.toml"
+hash = "1ba73c74e7232df75a64a2c90f2968731477d709987d733ce0f48af2719e7de4"
 metafile = true
 
 [[files]]
@@ -622,12 +690,17 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "3278c0f9c71e4239abbaf49c206842c9402a4d304fd95f0e394f59e1ee27586e"
+hash = "767264561a47a23285688e91d04b9685a47e872ab3547271d6c3d35c2af37d94"
 metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "d090f8ca847ad8e439fbef6161d6df600384a59bf252ce26c2d492a91fed825a"
 metafile = true
 
 [[files]]
@@ -652,12 +725,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "f9ae66555511400015bb2960a22f054c804bbf024e02b834a441c729ec9cd4fc"
+hash = "89864963c7699127ad608d4e2b96b0010fd1635b0538576b0b58787f7eb7db3d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "e27b31b814d55ef0b21a2c80180c9143e83187564d3aea837a16baaa4295c39c"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "1e7c0b60cc5339659a26a280de84cc0bf99fb2efe466c81956342f514d68b02a"
 metafile = true
 
 [[files]]
@@ -708,4 +786,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "3f0ac032a4f89382745b03a8e1078041f728d9e4f2df14fa9eb910382b98b1c4"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "e74c7b29a9776fa6d00a39ee71e18445c9b273570351a4b891a35b277feaca30"
 metafile = true

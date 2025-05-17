@@ -31,7 +31,7 @@ console.log("OH NO, OUR NETHER ICE, ITS MELTED!")
 BlockEvents.placed(event => {
     if (event.block.dimension == "minecraft:the_nether" && event.block.hasTag("minecraft:ice")) {
         event.player.tell(
-            "Placing boats or §dice§r in the nether is disallowed."
+            "Placing boats or §4ice§r in the nether is disallowed."
         );
         event.cancel();
     }
@@ -43,7 +43,7 @@ ItemEvents.rightClicked((event) => {
             event.player.mainHandItem.hasTag("minecraft:boats")) ||
         event.player.offHandItem.hasTag("minecraft:boats")
     ) {
-        event.player.tell("Placing §dboats§r or ice in the nether is disallowed.");
+        event.player.tell("Placing §4boats§r or ice in the nether is disallowed.");
         event.cancel();
     }
 });
